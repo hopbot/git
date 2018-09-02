@@ -27,3 +27,4 @@ Section -------- >xrebase alterou 2
 
 
 Section --------- > Alterado por master 3
+Section --------- >xrebase alterou 3
