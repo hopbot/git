@@ -3,11 +3,9 @@ Arquivo Teste Rebase:
 
 
 
-
-
-
 Section ------- > Alterado por master 1
 Section ------- > xrebase alterou 1
+Section ------- > xmerge alterou 1
 
 
 
@@ -17,6 +15,7 @@ Section ------- > xrebase alterou 1
 
 Section -------- > Alterado por master 2
 Section -------- >xrebase alterou 2
+Section -------- > xmerge alterou 2
 
 
 
@@ -28,3 +27,4 @@ Section -------- >xrebase alterou 2
 
 Section --------- > Alterado por master 3
 Section --------- >xrebase alterou 3
+Section --------- > xmerge alterou 3
