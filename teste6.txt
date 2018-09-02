@@ -1,2 +1,10 @@
 Arquivo teste 6 - Continuos rebase
 commit 1
+
+
+
+
+
+
+
+commit 2
